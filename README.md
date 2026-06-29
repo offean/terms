@@ -1,0 +1,2 @@
+# terms
+Bot terms
